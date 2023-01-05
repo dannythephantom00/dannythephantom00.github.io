@@ -1,0 +1,8 @@
+@keyframes loaderBounce {
+  0%, 100% {
+    transform: translateX(-50%)
+  }
+  50% {
+    transform: translateX(150%)
+  }
+}
